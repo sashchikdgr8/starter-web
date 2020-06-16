@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. Adding a line for rebasing example.
+This repository is for showing how Git and GitHub work together. Adding a line for rebasing example, more changes mrom myfeature branch 2.
 ## Introduction
 This example is to show different parts of the Git repository and various commands using a web project.
 ## Purpose
